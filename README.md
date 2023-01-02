@@ -20,14 +20,11 @@
 
 # FlashChat <img src="https://user-images.githubusercontent.com/103208820/210212608-e28cdd0e-d35e-44b2-b65b-69003b248ea4.png"  width="30" height="30"/>
 
-다양한 언어로의 번역이 가능한 심플한 번역 어플 입니다.
-
-디자인 출처 : https://dribbble.com/shots/17501384-Quari-Translate	
-
+간단한 채팅방을 만들어 채팅이 가능한 Flash채팅 어플입니다.
 
 ## 어플 UI
 
-<img src="https://user-images.githubusercontent.com/103208820/210212550-b61342f9-d9b4-41fe-bd5b-c9aa3a73e838.png"  width="250" height="400"/>
+<img src="https://user-images.githubusercontent.com/103208820/210213528-858bca12-d82a-4d07-babb-068a0f0e02df.gif"  width="250" height="400"/>
 
 ## 주요 기능
 
