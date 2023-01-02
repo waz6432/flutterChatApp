@@ -26,17 +26,7 @@
 
 <img src="https://user-images.githubusercontent.com/103208820/210213528-858bca12-d82a-4d07-babb-068a0f0e02df.gif"  width="250" height="400"/>
 
-## 주요 기능
+## 기능 소개
 
-* 텍스트 번역 : 번역하고 싶은 문구를 텍스트로 입력받아 원하는 언어로 번역이 가능합니다.
-<img src="https://user-images.githubusercontent.com/103208820/210185117-0c443fbc-0ad6-4440-b639-18e7dc800733.gif"  width="250" height="400"/>
-
-* 음성 번역 : 번역이 필요한 내용을 음성으로 말하면 해당 내용을 번역 할 수 있습니다.
-<img src="https://user-images.githubusercontent.com/103208820/210200976-08ffbb69-675e-4640-afa2-05eecae9ff04.gif"  width="250" height="400"/>
-
-* 이미지 번역 : 카메라로 찰칵 찍고 버튼만 누르면 이미지 속 문자를 자동으로 인식하여 번역 할 수 있습니다.
-<div align=left>
-	<img src="https://user-images.githubusercontent.com/103208820/210203016-d75d4ef0-00b8-47a1-8789-79c4e3c60b45.gif"  width="200" height="400"/>
-	<img src="https://user-images.githubusercontent.com/103208820/210203013-2d94f52d-d686-418f-b114-46eb926e64d4.gif"  width="200" height="400"/>
-	<img src="https://user-images.githubusercontent.com/103208820/210203015-bb42d00d-40b6-4058-8630-55ca546afd1c.gif"  width="200" height="400"/>	
-</div>
+* 파이어베이스와 연동하여 회원가입 및 로그인이 가능하도록 구현하였습니다.
+* 채팅방을 만들어 다른 사람과 채팅이 가능하며, 채팅내용은  데이터베이스에 저장됩니다.
