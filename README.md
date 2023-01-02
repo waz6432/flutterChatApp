@@ -32,4 +32,4 @@
 * 파이어베이스와 연동하여 회원가입 및 로그인이 가능하도록 구현하였습니다.
 * 채팅방을 만들어 다른 사람과 채팅이 가능하며, 채팅내용은  데이터베이스에 저장됩니다.
 
-<img src="https://user-images.githubusercontent.com/103208820/210215628-98932dcc-d46c-4f0a-96e5-d3c7451afb27.gif"  width="300" height="450"/>
+<img src="https://user-images.githubusercontent.com/103208820/210215628-98932dcc-d46c-4f0a-96e5-d3c7451afb27.gif"  width="400" height="450"/>
