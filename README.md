@@ -18,7 +18,7 @@
 </div>
 <br>
 
-# FlashChat <img src="https://user-images.githubusercontent.com/103208820/210183768-6358c59d-efc3-4d43-ba6b-a1137a7e4e5d.png"  width="30" height="30"/>
+# FlashChat <img src="https://user-images.githubusercontent.com/103208820/210212608-e28cdd0e-d35e-44b2-b65b-69003b248ea4.png"  width="30" height="30"/>
 
 다양한 언어로의 번역이 가능한 심플한 번역 어플 입니다.
 
