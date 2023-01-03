@@ -21,7 +21,7 @@
 
 # FlashChat <img src="https://user-images.githubusercontent.com/103208820/210212608-e28cdd0e-d35e-44b2-b65b-69003b248ea4.png"  width="30" height="30"/>
 
-채팅방을 만들어 채팅이 가능한  채팅 어플입니다.
+채팅방을 만들어 채팅이 가능한 간단한 채팅 어플입니다.
 
 ## 어플 UI
 
